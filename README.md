@@ -1,5 +1,7 @@
 # tsbetween
 
+[![Build Status](https://travis-ci.org/John-Lin/tsbetween.svg?branch=master)](https://travis-ci.org/John-Lin/tsbetween)
+
 Convert start and end time from ISO 8601 to UNIX timestamps.
 
 # Install
