@@ -6,11 +6,16 @@
   "scripts": {
     "test": "node node_modules/.bin/mocha"
   },
+  "homepage": "https://github.com/John-Lin/tsbetween#readme",
   "keywords": ["moment"],
   "author": "John-Lin <linton.tw@gmail.com> (http://linton.tw)",
   "license": "MIT",
   "dependencies": {
     "moment": "^2.11.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John-Lin/tsbetween.git"
   },
   "devDependencies": {
     "mocha": "^2.3.4"
